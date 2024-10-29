@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="w-full fixed bottom-0  p-1 bg-[#f7f7f7] shadow-md">
       <div className="flex items-center space-x-2 text-xs  ">
         <Image
-          src={"/assets/logo.png"}
+          src={"/assets/Aarogya_Ganit_Logo-removebg-preview.png"}
           width={180}
           height={180}
           alt="Stratrgy dot zero"
