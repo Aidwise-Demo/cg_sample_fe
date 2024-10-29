@@ -7,7 +7,7 @@ const Footer = () => {
     <div className="w-full fixed bottom-0  p-1 bg-[#f7f7f7] shadow-md">
       <div className="flex items-center space-x-2 text-xs  ">
         <Image
-          src={"/assets/Aidwise_Logo_DarkBG-removebg-preview.png"}
+          src={"/assets/Aidwise_Logo_WhiteBG-removebg-preview.png"}
           width={180}
           height={180}
           alt="Aroghya Ganit"
