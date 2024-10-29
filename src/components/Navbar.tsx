@@ -9,8 +9,8 @@ const Navbar = () => {
           <Menu className="w-5 h-5" />
           <Image
             src={"/assets/Aarogya_Ganit_Logo-removebg-preview.png"}
-            width={200}
-            height={200}
+            width={150}
+            height={150}
             alt="Strategy dot zero"
           />
         </div>
