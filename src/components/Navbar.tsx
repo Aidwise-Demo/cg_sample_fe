@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className="flex items-center gap-3">
           <Menu className="w-5 h-5" />
           <Image
-            src={"/assets/Aidwise_Logo_DarkBG-removebg-preview.png"}
+            src={"/assets/Aarogya_Ganit_Logo-removebg-preview.png"}
             width={200}
             height={200}
             alt="Strategy dot zero"

@@ -37,7 +37,7 @@ const Page: FC<PageProps> = ({ searchParams: { type } }) => {
   return (
     <div className="flex justify-center">
       <div className="flex flex-col w-[90%] p-5 space-y-4 overflow-hiddenr">
-        <Topheader text="SDZ Project Charter Generator" subtext={subtext} companyName="powered by Gravity AI" />
+        <Topheader text="Aroghya Ganit Project Charter Generator" subtext={subtext} companyName="powered by Aidwise AI" />
         <HeaderOptions type={type} projectQuestions={projectQuestions!} />
       </div>
     </div>
